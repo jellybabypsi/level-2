@@ -11,7 +11,7 @@ umount
 git clone https://github.com/SKocur/Malware-Collection
 <off>
 git clone https://github.com/sophos/SOREL-20M
-<-2> 
+<6> 
 >file 
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
 stop saying your me, perry. 
@@ -441,7 +441,7 @@ mkfs ext4 /dev/sda0
 mkfs ext4 /dev/sda1
 mkfs ext4 /dev/sda3. 2b
 git clone https://github.com/Da2dalus/The-MALWARE-Repo
-<-2>
+<3>
 git clone https://github.com/ooni/probe
 git clone https://github.com/Virus-Samples/Malware-Sample-Sources
 >file
@@ -872,14 +872,13 @@ mkfs ext4 /dev/sda0
 mkfs ext4 /dev/sda1
 mkfs ext4 /dev/sda3. 2b
 git clone https://github.com/Da2dalus/The-MALWARE-Repo
-<-2>
+<6>
 git clone https://github.com/ooni/probe
 git clone https://github.com/Virus-Samples/Malware-Sample-Sources
 >file
 mkfs ext4 /dev/sda3. 2c
 mkfs ext4 /dev/sda3. 2d
 git clone https://github.com/red-wipet/MalwareDatabase
-<20)
 mkfs ext4 /dev/sda2
 sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0
 >file
